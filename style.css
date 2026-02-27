@@ -8,11 +8,11 @@
   background-color: tomato;
 }
 .menu{
-  flex: 15%;
+  flex: 5%;
   background-color: green;
 }
 .content{
-  flex: 60%;
+  flex: 70%;
   background-color: white;
 }
 .content iframe {
