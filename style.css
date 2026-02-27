@@ -5,12 +5,15 @@
 }
 .header{
   flex: 15%;
+  background-color: tomato;
 }
 .menu{
   flex: 15%;
+  background-color: green;
 }
 .content{
-  
+  flex: 60%;
+    
 }
 .footer{
   flex: 10%;
