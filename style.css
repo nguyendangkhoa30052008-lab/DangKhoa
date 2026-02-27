@@ -13,10 +13,11 @@
 }
 .content{
   flex: 60%;
-    
+  background-color: black;
 }
 .footer{
   flex: 10%;
+  background-color: orange;
 }
 h1 {
   color: red;
