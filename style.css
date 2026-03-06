@@ -5,7 +5,7 @@
 }
 .header{
   flex: 15%;
-  background: url images("IMG_3159.png") center/100%;
+  background: url("images/IMG_3159.png") center/100%;
   aspect-ratio: 6/1;
 }
 .menu{
