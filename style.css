@@ -5,7 +5,8 @@
 }
 .header{
   flex: 15%;
-  background-color: tomato;
+  background: url("IMG_3159.png") center/100%;
+  aspect-ratio: 6/1;
 }
 .menu{
   flex: 5%;
